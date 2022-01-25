@@ -1,4 +1,5 @@
 ## TransSleep: Transitioning-aware Attention-based Deep Neural Network for Automatic Sleep Staging
+<p align="center"><img width="100%" src="files/network.jpg" /></p>
 
 This repository provides a PyTorch implementation of a submitted paper:
 > **TransSleep: Transitioning-aware Attention-based Deep Neural Network for Automatic Sleep Staging**<br>
